@@ -9,7 +9,7 @@ Set of activities developed for the Applied Data Science Specialization from the
 ---
 1) Create python environment (venv files should be good inside the project folder)
     ```
-    sudo apt install python3-virtualenv
+    pip3 install virtualenv
     virtualenv applied_data_science_spec_env
     ```
 2) Activate python environment
