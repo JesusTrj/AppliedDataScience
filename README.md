@@ -1,5 +1,5 @@
-# AppliedDataScienceSpec
-Set of activities developed for the Applied Data Science Specialization from the University of Michigan's program at Coursera.
+# AppliedDataScience
+Set of activities developed for the study of Applied Data Science.
 ## Dev Environment
 * MacOS, VSCode
 * Python
@@ -10,7 +10,7 @@ Set of activities developed for the Applied Data Science Specialization from the
 1) Create python environment (venv files should be good inside the project folder)
     ```
     pip3 install virtualenv
-    virtualenv applied_data_science_spec_env
+    virtualenv applied_data_science_env
     ```
 2) Activate python environment
     ``` 
