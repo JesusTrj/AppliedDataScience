@@ -14,7 +14,7 @@ Set of activities developed for the study of Applied Data Science.
     ```
 2) Activate python environment
     ``` 
-    source applied_data_science_spec_env/bin/activate
+    source applied_data_science_env/bin/activate
     ```
 3) Change in vscode the interpreter `ctrl+shift+p` to the python inside ambridge_project_env/bin/python3.8 
    1) This way you can run the .py with the extension RUN button with the env activated.
