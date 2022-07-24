@@ -44,3 +44,14 @@ Set of activities developed for the study of Applied Data Science.
   * Close/Open the virtual env
   * Open/Shutdown WSL, Vscode, other .exe
   * Commit the changes with a meaninful commit message
+
+### Deactivate & Delete Virtual Environment
+* Make sure environment is activated.
+* Deactivate environment using:
+  ```
+  deactivate
+  ```
+* Delete environmente using:
+  ```
+  rm -r env_name_path
+  ```
