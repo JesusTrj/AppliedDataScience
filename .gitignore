@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Environment Files
-applied_data_science_spec_env/
+applied_data_science_env/
