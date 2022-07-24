@@ -41,6 +41,6 @@ Set of activities developed for the study of Applied Data Science.
     `virtualenv <envName>`
     `pip install -r requirements.txt`
 * If using WSL...
- * Close/Open the virtual env
- * Open/Shutdown WSL, Vscode, other .exe
- * Commit the changes with a meaninful commit message
+  * Close/Open the virtual env
+  * Open/Shutdown WSL, Vscode, other .exe
+  * Commit the changes with a meaninful commit message
