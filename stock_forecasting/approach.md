@@ -9,3 +9,7 @@ The solution will consist of eight main activities, with several task within eac
 6. Evaluate the best model on the testing set
 7. Interpretation
 8. Conclutions
+
+For further information visit: [Towards Data Science - A complete machine learning walk through in Python](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
+
+**This scope and project approach can be modified, adding or substracting tasks as needed.**
