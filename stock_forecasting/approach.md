@@ -1,4 +1,6 @@
 # Work Methodology
+First Machine Learning problem, related to multivariable time series forecasting. Will be using a dataset found in [Kaggle](https://www.kaggle.com/datasets/szrlee/stock-time-series-20050101-to-20171231?resource=download), where stocks prices are located between 2006 and 2018, will be trying to forecast the value of the stock in the future. In the future, it may be interesting to use some API to use real time series data.
+
 The solution will consist of eight main activities, with several task within each one. The following will represent the Minimum Valuable Product (MVP).
 
 1. Data Cleaning & Formatting
