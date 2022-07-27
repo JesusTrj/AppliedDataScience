@@ -3,7 +3,8 @@ First Machine Learning problem, related to multivariable time series forecasting
 
 The solution will consist of eight main activities, with several task within each one. The following will represent the Minimum Valuable Product (MVP).
 
-1. Data Cleaning & Formatting
+1. Data Cleaning & Formatting 
+* After analysing the csv files provided, for the EDA will be using the [compiled stocks file](https://github.com/JesusTrj/AppliedDataScience/tree/main/stock_forecasting/stock_data/Compiled), then for the ML model training will be using the individual stock files in the following [link](https://github.com/JesusTrj/AppliedDataScience/tree/main/stock_forecasting/stock_data/Individual).
 2. Exploratory Data Analysis
 * [Aggregation Window. Part 1](https://towardsdatascience.com/real-time-aggregation-features-for-machine-learning-part-1-ec7337c0a504)
 * [Aggregation Window. Part 2](https://towardsdatascience.com/real-time-aggregation-features-for-machine-learning-part-2-fe9fd42522c0)
