@@ -9,7 +9,8 @@ The solution will consist of eight main activities, with several task within eac
 Aggregation window features wont be needed in this solution, since the architecture doesnt involve DB or Real Time services. For this solution, data will be stored and worked with locally.
 * [Aggregation Window. Part 1](https://towardsdatascience.com/real-time-aggregation-features-for-machine-learning-part-1-ec7337c0a504)
 * [Aggregation Window. Part 2](https://towardsdatascience.com/real-time-aggregation-features-for-machine-learning-part-2-fe9fd42522c0)
-3. Feature Engineering and selection
+3. Feature Engineering and selection  
+After analyzing the features available in the Dataset, in conclusion, PCA wont be performed, since the information available is pretty limited. PCA inst necesary for this solution, nevertheless, below there will be some documentation for following projects.
 * [Intro to Feature Engineering for Time Series forecasting](https://medium.com/data-science-at-microsoft/introduction-to-feature-engineering-for-time-series-forecasting-620aa55fcab0#:~:text=Feature%20engineering%20efforts%20mainly%20have,as%20a%20supervised%20learning%20problem.)
 * [PCA](https://towardsdatascience.com/using-principal-component-analysis-pca-for-machine-learning-b6e803f5bf1e)
 4. Compare several machine learning models on a performance metric
