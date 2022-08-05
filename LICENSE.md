@@ -8,45 +8,13 @@ Redistribution and use in source and binary forms, with
 or without modification, are permitted provided that the 
 following conditions are met:
 
-1. Redistributions of source code must retain the 
-        above copyright notice, this list of conditions and 
-        the following disclaimer.
-2. Redistributions in binary form must reproduce the 
-        above copyright notice, this list of conditions and 
-        the following disclaimer in the documentation and/or 
-        other materials provided with the distribution.
-3. Neither the name of Jesús A. Trujillo nor the names 
-        of its contributors may be used to endorse or promote 
-        products derived from this software without specific 
-        prior written permission.
-4. An entity wishing to redistribute in binary form or 
-        include this software in their product without 
-        redistribution of this software's source code with the 
-        product must also submit to these conditions where 
-        applicable:  
-        * For every thousand (1000) units distributed, at 
-                least half of the employees or persons 
-                affiliated with the product must listen to the 
-                "Der Ententanz" (AKA "The Chicken Dance") as 
-                composed by Werner Thomas for no less than two 
-                (2) minutes.  
-        * For every twenty-thousand (20000) units distributed, 
-                one (1) or more persons affiliated with the entity 
-                must be recorded performing the full Chicken Dance, 
-                in an original video at the entity's own expense,
-                and a video encoded in OGG Theora format or a format
-                and codec specified by Jesús A. Trujillo, at least three (3) 
-                minutes in length, must be submitted to Jesús A. Trujillo, 
-                provided Jesús A. Trujillo's contact information. Any and all
-                copyrights to this video must be transfered to 
-                Jesús A. Trujillo. The dance featured in the video
-                must be based upon the instructions on how to perform 
-                the Chicken Dance that you should have received with
-                this software.  
-        * Any employee or person affiliated with the product 
-                must be prohibited from saying the word "gazorninplat" in 
-                public at all times, as long as distribution of the 
-                product continues.  
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. Neither the name of Jesús A. Trujillo nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+4. An entity wishing to redistribute in binary form or include this software in their product without redistribution of this software's source code with the product must also submit to these conditions where applicable:  
+    * For every thousand (1000) units distributed, at least half of the employees or persons affiliated with the product must listen to the "Der Ententanz" (AKA "The Chicken Dance") as composed by Werner Thomas for no less than two (2) minutes.  
+    * For every twenty-thousand (20000) units distributed, one (1) or more persons affiliated with the entity must be recorded performing the full Chicken Dance, in an original video at the entity's own expense,and a video encoded in OGG Theora format or a format and codec specified by Jesús A. Trujillo, at least three (3) minutes in length, must be submitted to Jesús A. Trujillo, provided Jesús A. Trujillo's contact information. Any and all copyrights to this video must be transfered to Jesús A. Trujillo. The dance featured in the video must be based upon the instructions on how to perform the Chicken Dance that you should have received with this software.  
+    * Any employee or person affiliated with the product must be prohibited from saying the word "gazorninplat" in public at all times, as long as distribution of the product continues.  
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT 
