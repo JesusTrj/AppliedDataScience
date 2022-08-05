@@ -23,14 +23,14 @@ following conditions are met:
         include this software in their product without 
         redistribution of this software's source code with the 
         product must also submit to these conditions where 
-        applicable: 
-* For every thousand (1000) units distributed, at 
+        applicable:  
+        * For every thousand (1000) units distributed, at 
                 least half of the employees or persons 
                 affiliated with the product must listen to the 
                 "Der Ententanz" (AKA "The Chicken Dance") as 
                 composed by Werner Thomas for no less than two 
-                (2) minutes
-* For every twenty-thousand (20000) units distributed, 
+                (2) minutes.  
+        * For every twenty-thousand (20000) units distributed, 
                 one (1) or more persons affiliated with the entity 
                 must be recorded performing the full Chicken Dance, 
                 in an original video at the entity's own expense,
@@ -42,11 +42,11 @@ following conditions are met:
                 Jesús A. Trujillo. The dance featured in the video
                 must be based upon the instructions on how to perform 
                 the Chicken Dance that you should have received with
-                this software. 
-* Any employee or person affiliated with the product 
+                this software.  
+        * Any employee or person affiliated with the product 
                 must be prohibited from saying the word "gazorninplat" in 
                 public at all times, as long as distribution of the 
-                product continues. 
+                product continues.  
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 
 "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT 
