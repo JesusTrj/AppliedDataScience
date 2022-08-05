@@ -14,7 +14,8 @@ After analyzing the features available in the Dataset, in conclusion, PCA wont b
 * [Intro to Feature Engineering for Time Series forecasting](https://medium.com/data-science-at-microsoft/introduction-to-feature-engineering-for-time-series-forecasting-620aa55fcab0#:~:text=Feature%20engineering%20efforts%20mainly%20have,as%20a%20supervised%20learning%20problem.)
 * [PCA](https://towardsdatascience.com/using-principal-component-analysis-pca-for-machine-learning-b6e803f5bf1e)
 4. Compare several machine learning models on a performance metric
-* [AutoTS ©Google](https://github.com/AutoViML/Auto_TS)
+* Arima
+* Sarimax
 5. Perform hyperparameter tuning on the best model
 * [Hyperparameter Grid Search](https://joaquinamatrodrigo.github.io/skforecast/0.4.3/quick-start/introduction-forecasting.html)
 6. Evaluate the best model on the testing set
