@@ -134,3 +134,7 @@ applied_data_science_env/
 #Large files
 stock_forecasting/AutoARIMA_Models/PKL/JPM_autoARIMA_Model.pkl
 stock_forecasting/AutoARIMA_Models/PKL/BA_autoARIMA_Model.pkl
+
+#IMPORTANT: TO IGNORE LARGE FILES
+# find . -size +1G | cat >> .gitignore
+# Then erase firsts characters to transform into relative path... 
