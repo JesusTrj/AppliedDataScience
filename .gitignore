@@ -130,3 +130,6 @@ dmypy.json
 
 # Environment Files
 applied_data_science_env/
+./applied_data_science_env/lib/python3.8/site-packages/xgboost/lib/libxgboost.so
+./stock_forecasting/AutoARIMA_Models/PKL/BA_autoARIMA_Model.pkl
+./stock_forecasting/AutoARIMA_Models/PKL/JPM_autoARIMA_Model.pkl
