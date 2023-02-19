@@ -22,17 +22,6 @@ Set of activities developed for the study of Applied Data Science.
 
 4) Add the folder of the environment to `.gitignore` as `applied_data_science_spec_env/`, the requirements you share in git should just be in `requirements.txt`
 
-## CLOSE / RESTART / START  THE PROJECT
----
-### Repository
-  * Create 1 in github and a 7 days token
-  * Clone it in vscode
-  * Create a branch to develop
-  * Create a `.env.template` file, below is just an example
-  * Create a `.env` file, following the `.env.template`
-  * Create a git ignore file, for inspo look at this forked repo [.gitignore examples](https://github.com/ArmandoDLaRosa/gitignore)
-    * `nano .gitignore`
-    * Paste inside the example + add `.env` file's name
 ### Other
 * Save requirements to install (activate the virtual env)
     `pip freeze > requirements.txt`
